@@ -1,0 +1,32 @@
+# Ambiente virtual — nunca versionar
+.venv/
+venv/
+env/
+
+# Bytecode e cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Testes / cobertura
+.coverage
+htmlcov/
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variáveis locais (se existirem no futuro)
+.env
+.env.*
+!.env.example
