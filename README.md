@@ -10,12 +10,12 @@
 
 ## Documentação e gestão
 - **Google Docs:** (https://docs.google.com/document/d/1Gz2MXxVCzISU5mzCdcYBW1pBkXJNOzmy3BTSce-d7lg/edit?tab=t.0)
-- **Kanban do grupo:** 
+- **Kanban do grupo:**  (https://github.com/users/NatalyyRodrigues/projects/1/views/1)
 
 
 ## Como rodar na máquina
 
-- git clone <url-do-repositorio>
+- git clone <https://github.com/NatalyyRodrigues/Bicicletas_Compartilhadas>
 
 - cd Bicicletas_Compartilhadas
 
@@ -24,5 +24,5 @@
 - .venv\Scripts\activate
 
 - pip install -r requirements.txt
-- uvicorn main:app --reload"
+- uvicorn main:app --reload
 
